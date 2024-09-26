@@ -1,0 +1,542 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "questionId": 1,
+    "choices": [
+      {
+        "Damascus": false
+      },
+      {
+        "Madrid": false
+      },
+      {
+        "Paris": true
+      },
+      {
+        "Rome": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the capital of Germany?",
+    "questionId": 2,
+    "choices": [
+      {
+        "Berlin": true
+      },
+      {
+        "New York": false
+      },
+      {
+        "London": false
+      },
+      {
+        "Jamanka": false
+      }
+    ]
+  },
+  {
+    "questionText": "In which continent Lebanon located?",
+    "questionId": 3,
+    "choices": [
+      {
+        "Africa": false
+      },
+      {
+        "Asia": true
+      },
+      {
+        "Europe": false
+      },
+      {
+        "South America": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is Earth estimated age?",
+    "questionId": 4,
+    "choices": [
+      {
+        "2,5 Billions years": false
+      },
+      {
+        "534,5 Millions years": false
+      },
+      {
+        "13,4 Billions years": false
+      },
+      {
+        "4,54 Billions years": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which country is NOT located in Europe?",
+    "questionId": 5,
+    "choices": [
+      {
+        "Malta": false
+      },
+      {
+        "Serbia": false
+      },
+      {
+        "Iceland": false
+      },
+      {
+        "New Zealand": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which country has coastlines with Pacific Ocean?",
+    "questionId": 6,
+    "choices": [
+      {
+        "United States": true
+      },
+      {
+        "Germany": false
+      },
+      {
+        "Brazil": false
+      },
+      {
+        "France": false
+      }
+    ]
+  },
+  {
+    "questionText": "According to UNESCO, Which is the oldest continuously inhabited city in the world?",
+    "questionId": 7,
+    "choices": [
+      {
+        "Jerusalem": false
+      },
+      {
+        "Istanbul": false
+      },
+      {
+        "Athens": false
+      },
+      {
+        "Damascus": true
+      }
+    ]
+  },
+  {
+    "questionText": "By the end of which ancient Earth period the dinosaurs went extinct?",
+    "questionId": 8,
+    "choices": [
+      {
+        "Jurassic Period": false
+      },
+      {
+        "Cretaceous Period": true
+      },
+      {
+        "Triassic Period": false
+      },
+      {
+        "Neogene Period": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which is the highest mountain in the World?",
+    "questionId": 9,
+    "choices": [
+      {
+        "Everest": true
+      },
+      {
+        "Fuji": false
+      },
+      {
+        "Mont Blanc": false
+      },
+      {
+        "Atlas Mountains": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which is the lowest point on the Earth surface?",
+    "questionId": 10,
+    "choices": [
+      {
+        "Dead sea depression": true
+      },
+      {
+        "Lake Eyre": false
+      },
+      {
+        "Turpan Depression": false
+      },
+      {
+        "Salton Sea": false
+      }
+    ]
+  },
+  {
+    "questionText": "How many oceans are there on Earth?",
+    "questionId": 11,
+    "choices": [
+      {
+        "4": false
+      },
+      {
+        "5": true
+      },
+      {
+        "6": false
+      },
+      {
+        "7": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which see is the smallest see?",
+    "questionId": 12,
+    "choices": [
+      {
+        "Red See": false
+      },
+      {
+        "Black See": false
+      },
+      {
+        "Dead See": false
+      },
+      {
+        "Marmara See": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which European country of the following has no coastlines (landlocked)?",
+    "questionId": 13,
+    "choices": [
+      {
+        "Greece": false
+      },
+      {
+        "Germany": false
+      },
+      {
+        "France": false
+      },
+      {
+        "Austria": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the largest ocean in the world?",
+    "questionId": 14,
+    "choices": [
+      {
+        "Atlantic Ocean": false
+      },
+      {
+        "Pacific Ocean": true
+      },
+      {
+        "Arctic Ocean": false
+      },
+      {
+        "Indian Ocean": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the name of the supercontinent that existed over 200 million years ago?",
+    "questionId": 15,
+    "choices": [
+      {
+        "Laurasia": false
+      },
+      {
+        "Pangea": true
+      },
+      {
+        "Gondwana": false
+      },
+      {
+        "Gaia": false
+      }
+    ]
+  },
+  {
+    "questionText": "The Amazon Rainforest is primarily located in which country?",
+    "questionId": 16,
+    "choices": [
+      {
+        "Peru": false
+      },
+      {
+        "Colombia": false
+      },
+      {
+        "Venezuela": false
+      },
+      {
+        "Brazil": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the largest non-continental island in the world?",
+    "questionId": 17,
+    "choices": [
+      {
+        "Greenland": true
+      },
+      {
+        "Madagascar": false
+      },
+      {
+        "Iceland": false
+      },
+      {
+        "Australia": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which desert is the largest hot desert in the world?",
+    "questionId": 18,
+    "choices": [
+      {
+        "Gobi Desert": false
+      },
+      {
+        "Arabian Desert": false
+      },
+      {
+        "Kalahari Desert": false
+      },
+      {
+        "Sahara Desert": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which country managed to dig into the Earth core?",
+    "questionId": 19,
+    "choices": [
+      {
+        "United States": false
+      },
+      {
+        "China": false
+      },
+      {
+        "Soviet Union": false
+      },
+      {
+        "No country has ever manged to reach Earth core": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following id not a correct characteristic for a peninsula?",
+    "questionId": 20,
+    "choices": [
+      {
+        "is bordered by water on three sides": false
+      },
+      {
+        "It is attached to a larger landmass at one point": false
+      },
+      {
+        "It is connected to a Continent": true
+      },
+      {
+        "It extends into a body of water, creating a distinctive shape": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the name of the climate zone characterized by cold temperatures and permanently frozen ground?",
+    "questionId": 21,
+    "choices": [
+      {
+        "Tropical": false
+      },
+      {
+        "Arid": false
+      },
+      {
+        "Tundra": true
+      },
+      {
+        "Mediterranean": false
+      }
+    ]
+  },
+  {
+    "questionText": "What type of climate is found at the equator?",
+    "questionId": 22,
+    "choices": [
+      {
+        "Tropical": true
+      },
+      {
+        "Arid": false
+      },
+      {
+        "Tundra": false
+      },
+      {
+        "Mediterranean": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the total number of latitude lines?",
+    "questionId": 23,
+    "choices": [
+      {
+        "180": true
+      },
+      {
+        "160": false
+      },
+      {
+        "170": false
+      },
+      {
+        "140": false
+      }
+    ]
+  },
+  {
+    "questionText": "By which factor timezones are determined?",
+    "questionId": 24,
+    "choices": [
+      {
+        "latitude lines": false
+      },
+      {
+        "longitude lines": true
+      },
+      {
+        "Elevation": false
+      },
+      {
+        "Timezones cannot be determined by the previous factors": false
+      }
+    ]
+  },
+  {
+    "questionText": "The equator passes through which country of the following ?",
+    "questionId": 25,
+    "choices": [
+      {
+        "Ecuador": true
+      },
+      {
+        "Nigeria": false
+      },
+      {
+        "Spain": false
+      },
+      {
+        "Egypt": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the smallest country in the world?",
+    "questionId": 26,
+    "choices": [
+      {
+        "Bahrain": false
+      },
+      {
+        "Vatican City": true
+      },
+      {
+        "Monaco": false
+      },
+      {
+        "Maldives": false
+      }
+    ]
+  },
+  {
+    "questionText": "What the relation between elevation and climate?",
+    "questionId": 27,
+    "choices": [
+      {
+        "Elevation has no effect on climate": false
+      },
+      {
+        "Increased elevation increases Temperature": false
+      },
+      {
+        "Decreased elevation decreases air pressure": false
+      },
+      {
+        "Increased elevation increases Tair pressure": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which country has the most population in the world?",
+    "questionId": 28,
+    "choices": [
+      {
+        "United States": false
+      },
+      {
+        "India": false
+      },
+      {
+        "Russia": false
+      },
+      {
+        "China": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the largest country in the world?",
+    "questionId": 29,
+    "choices": [
+      {
+        "United States": false
+      },
+      {
+        "India": false
+      },
+      {
+        "Russia": true
+      },
+      {
+        "China": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the diameter of planet Earth?",
+    "questionId": 30,
+    "choices": [
+      {
+        "Approximately 12,756 kilometers": true
+      },
+      {
+        "Approximately 10,050 kilometers": false
+      },
+      {
+        "Approximately 9,854 kilometers": false
+      },
+      {
+        "Approximately 14,780 kilometers": false
+      }
+    ]
+  }
+]

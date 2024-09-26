@@ -1,0 +1,63 @@
+name: atlas_quiz
+
+flutter_native_splash:
+  android_gravity: fill
+  android: true
+  ios: false
+  web: false
+
+
+  color: "#d4e4ed"
+  image: "assets/logo.png"
+
+  android_12:
+    color: "#d4e4ed"
+    image: "assets/logo.png"
+
+
+
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+
+dependencies:
+  sqflite_common_ffi: ^2.0.0
+  flutter_native_splash: ^2.4.1
+  path_provider: ^2.1.4
+  provider: ^6.1.2
+  sqflite: ^2.3.0
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+   - assets/
+
+
+
